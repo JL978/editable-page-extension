@@ -1,2 +1,3 @@
-# Chrome extension starter template
-A simple starter template based on the getting started tutorial on the [official doc](https://developer.chrome.com/docs/extensions/mv3/getstarted/) to get started in creating a Chrome exntension
+# Editable 
+
+A published chrome extension that allows for you to toggle the contenteditable attribute of a page that you are one and make changes to text contents directly on the page.
